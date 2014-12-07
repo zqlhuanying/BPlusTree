@@ -1,0 +1,5 @@
+#过滤根目录下的文件夹.idea,target
+/.idea/
+/target/
+#过滤文件
+*.iml
